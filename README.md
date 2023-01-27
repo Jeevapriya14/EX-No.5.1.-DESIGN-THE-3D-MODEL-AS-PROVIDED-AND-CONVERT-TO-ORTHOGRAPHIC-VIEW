@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-https://github.com/Jeevapriya14/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE.git
+![EX 5 1 JEEVAPRIYA R_page-0001](https://user-images.githubusercontent.com/121003043/215126107-49562f59-c943-4fe8-b5f4-ca5cd049e8a0.jpg)
+
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
